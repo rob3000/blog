@@ -2,4 +2,4 @@
 A Developer Friendly Magento Blog Module
 
 ## Todo
-- [] Add Tests
+- [ ] Add Tests
